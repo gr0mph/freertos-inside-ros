@@ -1,0 +1,11 @@
+# Ignore dot folder
+.config/
+.ros/
+
+# Ignore some dot file
+ros_workspace/.catkin_workspace
+.Xauthority
+
+# Ignore some folder
+ros_workspace/build/
+ros_workspace/devel/
