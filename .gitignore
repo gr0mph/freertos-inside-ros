@@ -5,6 +5,7 @@
 # Ignore some dot file
 ros_workspace/.catkin_workspace
 .Xauthority
+.gitconfig
 
 # Ignore some folder
 ros_workspace/build/
